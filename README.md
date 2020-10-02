@@ -1,6 +1,6 @@
 # Play-with-Filters
 
-Just a simple Tkinter UI to show how changing value of matrix can create a new filters
+### A Tkinter app which helps to create custom filters.
 
 <img src="https://img.icons8.com/plasticine/100/000000/youtube.png"/>
 
